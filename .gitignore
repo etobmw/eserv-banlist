@@ -1,0 +1,17 @@
+# Реальные настройки (имена серверов, IP, пороги) - только на сервере
+config.psd1
+
+# Данные, которые создаёт сам скрипт
+*.csv
+*.log
+*.log.old
+ban.txt
+ban.txt.tmp
+ban_manual.txt
+ban_original_backup.txt
+
+# Мусор редакторов и Windows
+*.bak
+*.tmp
+Thumbs.db
+.vscode/
